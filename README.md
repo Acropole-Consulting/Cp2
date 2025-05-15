@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&pause=1000&color=2E68DF&center=true&vCenter=true&repeat=false&width=434&height=49&lines=Welcome%F0%9F%91%8B;This+is+the+first+Cp+by+Edge+Computing+%F0%9F%A4%98+"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&pause=1000&color=2E68DF&center=true&vCenter=true&repeat=false&width=434&height=49&lines=Welcome%F0%9F%91%8B;This+is+the+second+Cp+by+Edge+Computing+%F0%9F%A4%98+"/>
 </h1>
 
 ## 📝 Descrição do Projeto
