@@ -4,7 +4,9 @@
 
 ## 📝 Descrição do Projeto
 <p>
-   Desenvolvemos um circuito eletrônico para monitorar atras de um displey de lcd a temperetatura e a humidade da "Adega" da vinheria agnello. O sistema fornece informações mais precisas para a vinheria manejar a adega de forma que não estrague o vinho.
+   Desenvolvemos um circuito eletrônico para monitorar, por meio de um display LCD, a temperatura e a umidade da adega da Vinheria Agnello. O sistema fornece informações precisas e em tempo real, permitindo que a vinheria gerencie o ambiente da adega de maneira eficiente e evite condições que possam comprometer a qualidade dos vinhos.
+
+Se quiser uma versão ainda mais formal ou detalhada, é só pedir!
 </p>
 
 <h2 align="left">🖥️ Circuito</h2>
