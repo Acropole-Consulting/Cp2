@@ -10,7 +10,7 @@ Se quiser uma versão ainda mais formal ou detalhada, é só pedir!
 </p>
 
 <h2 align="left">🖥️ Circuito</h2>
-img src="https://github.com/user-attachments/assets/8dca4808-71e8-434c-b4f9-b2665f2c5592" 
+<img src="https://github.com/user-attachments/assets/8dca4808-71e8-434c-b4f9-b2665f2c5592" >
 <div align="center">
    
 </div>
