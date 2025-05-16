@@ -48,7 +48,7 @@
 <h2 align="left">⚙️ Funcionamento</h2>
 <p>
   O sistema
-foto resistor capita a ausência e a presencia de luz e mede a intensidade da luz mostrada com os LEDs e caso necessário acionara o buzzer. O DHT 22 vai medir a temperatura e a humidade do ar e ira transferir essa informação para o display de lcd 
+foto resistor capita a ausência e a presença de luz, medidindo a intensidade da luz mostrada com os LEDs e caso necessário acionará o buzzer. O DHT 22 vai medir a temperatura e a humidade do ar e irá transferir essa informação para o display de lcd 
 led verde sinaliza que esta tudo certo
 led amarelo sinaliza que precisa de ajuste
 led vermelho sinaliza que está em estado "critico"
