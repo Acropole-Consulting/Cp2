@@ -21,18 +21,18 @@
     <section style="flex: 1;">
         <h3 style="font-size: 16px; margin-bottom: 15px;">📦 Lista de Componentes</h3>
         <ul style="list-style-type: none; font-size: 16px; padding-left: 0;">
-            <li style="margin-bottom: 8px;">• 1x Arduino Uno R3
-            <li style="margin-bottom: 8px;">• 1x DHT11
-            <li style="margin-bottom: 8px;">• 1x Display LCD
-            <li style="margin-bottom: 8px;">• 1xx Sensor de luminosidade LDR
-            <li style="margin-bottom: 8px;">• 10x Fios jumper
-            <li style="margin-bottom: 8px;">• 1x Resistor de 10kΩ
-            <li style="margin-bottom: 8px;">• 3x Resistores de 220Ω
-            <li style="margin-bottom: 8px;">• 3x LEDs (verde, amarelo,vermelho) 
-            <li style="margin-bottom: 8px;">• 1x Buzzer
-            <li style="margin-bottom: 8px;">• 1x Protobord
-            <li style="margin-bottom: 8px;">• 1x Potenciômetro
-             <li style="margin-bottom: 8px;">• Fonte de alimentação 5V ou 1x cabo USB
+            <li style="margin-bottom: 8px;"> 1x Arduino Uno R3
+            <li style="margin-bottom: 8px;"> 1x DHT11
+            <li style="margin-bottom: 8px;"> 1x Display LCD
+            <li style="margin-bottom: 8px;"> 1xx Sensor de luminosidade LDR
+            <li style="margin-bottom: 8px;"> 10x Fios jumper
+            <li style="margin-bottom: 8px;"> 1x Resistor de 10kΩ
+            <li style="margin-bottom: 8px;"> 3x Resistores de 220Ω
+            <li style="margin-bottom: 8px;"> 3x LEDs (verde, amarelo,vermelho) 
+            <li style="margin-bottom: 8px;"> 1x Buzzer
+            <li style="margin-bottom: 8px;"> 1x Protobord
+            <li style="margin-bottom: 8px;"> 1x Potenciômetro
+             <li style="margin-bottom: 8px;"> Fonte de alimentação 5V ou 1x cabo USB
         </ul>
     </section>
     <section style="flex: 2;">
