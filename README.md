@@ -40,7 +40,7 @@
             <li style="margin-bottom: 8px;"> CD: Alimentação (5V e GND), contraste (potenciômetro), pinos de controle (RS, E, RW ao GND) e pinos de dados (D4-D7) aos pinos digitais do Arduino. A luz de fundo também precisa de 5V e GND.
             <li style="margin-bottom: 8px;"> Potenciômetro: Alimentação (5V e GND) e o pino central ao controle de contraste do LCD.
             <li style="margin-bottom: 8px;"> Buzzer: Um pino a um pino digital do Arduino e o outro ao GND.
-            <li style="margin-bottom: 8px;"> LDR: Um pino ao 5V, o outro conectado a um resistor para o GND e ao mesmo tempo a um pino analógico do Arduino.
+            <li style="margin-bottom: 8px;"> LDR: Um pino ao 5V, o outro conectado a um resistor para o GND e ao mesmo tempo a um pino   analógico do Arduino.
             <li style="margin-bottom: 8px;"> LEDs: Cada um com um resistor, conectados a pinos digitais diferentes do Arduino e ao GND. Alimentação: O Arduino é alimentado via USB.
     </section>
 </div>
