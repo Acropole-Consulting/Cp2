@@ -8,7 +8,7 @@ Veja o vídeo explicativo do projeto 👉 **[Clique aqui!](https://vm.tiktok.com
 * Vitor Ramos de Farias 
 * Carlos Eduardo Sanches Mariano 
 * Tomé Rossi Giani 
-* Nichola 
+* Nicholas Braga de Souza 
 * Carlos Eduardo Goes
 
   
