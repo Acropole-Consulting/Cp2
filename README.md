@@ -5,10 +5,17 @@
 ## 📝 Descrição do Projeto
 <p>
    Desenvolvemos um circuito eletrônico para monitorar, por meio de um display LCD, a temperatura e a umidade da adega da Vinheria Agnello. O sistema fornece informações precisas e em tempo real, permitindo que a vinheria gerencie o ambiente da adega de maneira eficiente e evite condições que possam comprometer a qualidade dos vinhos.
-
-
+  Veja o vídeo explicativo do projeto 👉 <a href="https://vm.tiktok.com/ZMSREwNuL/" target="_blank">Visite nosso projeto!!</a>
 </p>
 
+## 👥 Equipe do Projeto
+* Vitor Ramos de Farias 
+* Carlos Eduardo Sanches Mariano 
+* Tomé Rossi Giani 
+* Nichola 
+* Carlos Eduardo Goes
+
+  
 <h2 align="left">🖥️ Circuito</h2>
 <img src="https://github.com/user-attachments/assets/8dca4808-71e8-434c-b4f9-b2665f2c5592" >
 <div align="center">
