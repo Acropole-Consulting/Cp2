@@ -21,7 +21,7 @@ Veja o vídeo explicativo do projeto 👉 **[Clique aqui!](https://vm.tiktok.com
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 40px;">
     <section style="flex: 1;">
-        <a href="https://www.tinkercad.com/things/7JwIQRuH129-cp2-edge-/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard&sharecode=-iuyU3SJD98re6uGchg4mXYNVrO0RNIHapWxlbPYhVc" target="_blank">Visite nosso projeto!!</a>
+Veja o vídeo explicativo do projeto 👉 **[Clique aqui!](https://www.tinkercad.com/things/7JwIQRuH129-cp2-edge-/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard&sharecode=-iuyU3SJD98re6uGchg4mXYNVrO0RNIHapWxlbPYhVc)**
         <h3 style="font-size: 16px; margin-bottom: 15px;">📦 Lista de Componentes</h3>
         <ul style="list-style-type: none; font-size: 16px; padding-left: 0;">
             <li style="margin-bottom: 8px;"> 1x Arduino Uno R3
