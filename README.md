@@ -1,12 +1,8 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&pause=1000&color=2E68DF&center=true&vCenter=true&repeat=false&width=434&height=49&lines=Welcome%F0%9F%91%8B;Second+Cp+by+Edge+Computing+%F0%9F%A4%98+"/>
-</h1>
-
 ## 📝 Descrição do Projeto
-<p>
-   Desenvolvemos um circuito eletrônico para monitorar, por meio de um display LCD, a temperatura e a umidade da adega da Vinheria Agnello. O sistema fornece informações precisas e em tempo real, permitindo que a vinheria gerencie o ambiente da adega de maneira eficiente e evite condições que possam comprometer a qualidade dos vinhos.
-  Veja o vídeo explicativo do projeto 👉 <a href="https://vm.tiktok.com/ZMSREwNuL/" target="_blank">Visite nosso projeto!!</a>
-</p>
+
+Desenvolvemos um circuito eletrônico para monitorar, por meio de um display LCD, a temperatura e a umidade da adega da Vinheria Agnello. O sistema fornece informações precisas e em tempo real, permitindo que a vinheria gerencie o ambiente da adega de maneira eficiente e evite condições que possam comprometer a qualidade dos vinhos.
+  
+Veja o vídeo explicativo do projeto 👉 **[Clique aqui!]([https://youtu.be/aapwjsI5mDc](https://vm.tiktok.com/ZMSREwNuL/" target=))**
 
 ## 👥 Equipe do Projeto
 * Vitor Ramos de Farias 
