@@ -18,6 +18,7 @@
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 40px;">
     <section style="flex: 1;">
+        <a href="https://www.tinkercad.com/things/2y7tOBw4ClD-cp2-edge-computing/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard&sharecode=BPAoDhsjDPL5MSZcT4gz2kcJJwgiOZiFXE8E5fGSj-4" target="_blank">Visite meu site</a>
         <h3 style="font-size: 16px; margin-bottom: 15px;">📦 Lista de Componentes</h3>
         <ul style="list-style-type: none; font-size: 16px; padding-left: 0;">
             <li style="margin-bottom: 8px;"> 1x Arduino Uno R3
